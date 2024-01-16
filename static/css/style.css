@@ -1,0 +1,16 @@
+.column {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.other {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-repeat: no-repeat;
+    background-size: 400px; 
+}
